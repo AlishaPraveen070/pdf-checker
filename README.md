@@ -1,4 +1,4 @@
-# FactCheck AI
+# ClaimVerify AI
 
 Automated PDF claim verification system built with Streamlit, Python, OpenAI, LangChain-ready dependencies, Tavily Search, PyMuPDF, pdfplumber, BeautifulSoup, and Requests.
 
